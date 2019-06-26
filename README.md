@@ -29,17 +29,3 @@
 - Know a little bit of how to program in Swift with the iOS SDK
 
 Please note: I am unable to offer any free support or modifications. Thanks!
-
-## Stations 
-
-Includes an example "stations.json" file. You may upload the JSON file to a server, so that you can update the stations in the app without resubmitting to the app store. The following fields are supported in the app:
-
-- **name**: The name of the station as you want it displayed (e.g. "Sub Pop Radio")
-
-- **streamURL**: The url of the actual stream
-
-- **imageURL**: Station image url. Station images in demo are 350x206. Image can be local or hosted. Leave out the "http" to use a local image (You can use either: "station-subpop" or "http://myurl.com/images/station-subpop.jpg")
-
-- **desc**: Short 2 or 3 word description of the station as you want it displayed (e.g. "Outlaw Country")
-
-- **longDesc**: Long description of the station to be used on the "info screen". This is optional.
